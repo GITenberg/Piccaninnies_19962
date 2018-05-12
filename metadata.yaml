@@ -1,0 +1,31 @@
+_repo: Piccaninnies_19962
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19962-h/images/img.cover.jpg
+creator:
+  author:
+    agent_name: Peacocke, Isabel M. (Isabel Maud)
+    aliases:
+    - Cluett, Isabel M. (Isabel Maud)
+    - Peacocke, Isabel Maud
+    birthdate: 1881
+    deathdate: 1973
+    gutenberg_agent_id: '8991'
+    url: http://www.gutenberg.org/2009/agents/8991
+description: ''
+gutenberg_bookshelf: New Zealand
+gutenberg_issued: '2006-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19962'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Zealand -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Fairies -- Juvenile fiction'
+title: Piccaninnies
+url: http://www.gutenberg.org/ebooks/19962
